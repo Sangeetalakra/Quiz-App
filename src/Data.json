@@ -1,0 +1,30 @@
+[
+    {
+        "text":"Q1.In which year @ sign was first chosen for its use in  e-mail address ?",
+        "options":["1972","1976 ","1980","1977"],
+        "correctAnswer": 0
+    },
+    {
+        "text":"Q2.Which of the following is not a Browser ?",
+        "options":["WWW","MOSCIA","Facebook","Netscape navigator"],
+        "correctAnswer": 2
+    },
+    
+    {
+        "text":"Q3.Which one of the following is a language ?",
+        "options":["HTTP","HPML","FTPL","HTML"],
+        "correctAnswer":3
+            },
+    
+    {
+        "text":"Q4.Which Protocol to recevied e-mail?",
+        "options":["POP3","HTTP","FTPL","SMTP"],
+        "correctAnswer":0 
+    },
+     { "text":"Q5.Which  Protocol to send e-mail ?",
+    "options":["HTTP","POP3","FTP","SMTP"],
+    "correctAnswer": 3
+     }
+    
+]
+
